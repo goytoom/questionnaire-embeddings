@@ -1,0 +1,1101 @@
+[[Block:Test Full]]
+1. How did this person respond to the following question?
+
+I have a vivid imagination.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+2. How did this person respond to the following question?
+
+I hold a grudge.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+3. How did this person respond to the following question?
+
+I do not mind being the centre of attention.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+4. How did this person respond to the following question?
+
+I do not like poetry.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+5. How did this person respond to the following question?
+
+I complete tasks successfully.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+6. How did this person respond to the following question?
+
+I believe that others have good intentions.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+7. How did this person respond to the following question?
+
+I avoid philosophical discussions.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+8. How did this person respond to the following question?
+
+I need a push to get started.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+9. How did this person respond to the following question?
+
+I cut others to pieces.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+10. How did this person respond to the following question?
+
+I make friends easily.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+11. How did this person respond to the following question?
+
+I feel comfortable with myself.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+12. How did this person respond to the following question?
+
+I often feel blue.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+13. How did this person respond to the following question?
+
+I am easy to satisfy.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+14. How did this person respond to the following question?
+
+I keep in the background.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+15. How did this person respond to the following question?
+
+I am always prepared.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+16. How did this person respond to the following question?
+
+I enjoy wild flights of fantasy.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+17. How did this person respond to the following question?
+
+I get stressed out easily.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+18. How did this person respond to the following question?
+
+I avoid contact with others.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+19. How did this person respond to the following question?
+
+I am not easily bothered by things.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+20. How did this person respond to the following question?
+
+I shirk my duties.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+21. How did this person respond to the following question?
+
+I can say things beautifully.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+22. How did this person respond to the following question?
+
+I suspect hidden motives in others.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+23. How did this person respond to the following question?
+
+I cheer people up.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+24. How did this person respond to the following question?
+
+I am not interested in abstract ideas.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+25. How did this person respond to the following question?
+
+I do things according to a plan.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+26. How did this person respond to the following question?
+
+I am concerned about others.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+27. How did this person respond to the following question?
+
+I am relaxed most of the time.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+28. How did this person respond to the following question?
+
+I waste my time.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+29. How did this person respond to the following question?
+
+I dont talk a lot.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+30. How did this person respond to the following question?
+
+I dislike myself.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+31. How did this person respond to the following question?
+
+I enjoy thinking about things.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+32. How did this person respond to the following question?
+
+I get back at others.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+33. How did this person respond to the following question?
+
+I warm up quickly to others.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+34. How did this person respond to the following question?
+
+I do not enjoy going to art museums.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+35. How did this person respond to the following question?
+
+I follow through with my plans.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+36. How did this person respond to the following question?
+
+I make people feel at ease.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+37. How did this person respond to the following question?
+
+I seldom feel blue.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+38. How did this person respond to the following question?
+
+I mess things up.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+39. How did this person respond to the following question?
+
+I have little to say.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+40. How did this person respond to the following question?
+
+I fear for the worst.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+41. How did this person respond to the following question?
+
+I carry the conversation to a higher level.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+42. How did this person respond to the following question?
+
+I believe that i am better than others.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+43. How did this person respond to the following question?
+
+I talk to a lot of different people at parties.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+44. How did this person respond to the following question?
+
+I tend to vote for conservative political candidates.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+45. How did this person respond to the following question?
+
+I am exacting in my work.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+46. How did this person respond to the following question?
+
+I accept people as they are.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+47. How did this person respond to the following question?
+
+I am not easily frustrated.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+48. How did this person respond to the following question?
+
+I dont put my mind on the task at hand.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+49. How did this person respond to the following question?
+
+I keep others at a distance.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+50. How did this person respond to the following question?
+
+I panic easily.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+51. How did this person respond to the following question?
+
+I tend to vote for liberal political candidates.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+52. How did this person respond to the following question?
+
+I contradict others.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+53. How did this person respond to the following question?
+
+I know how to captivate people.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+54. How did this person respond to the following question?
+
+I am not interested in theoretical discussions.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+55. How did this person respond to the following question?
+
+I make plans and stick to them.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+56. How did this person respond to the following question?
+
+I trust what people say.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+57. How did this person respond to the following question?
+
+I rarely lose my composure.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+58. How did this person respond to the following question?
+
+I leave things unfinished.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+59. How did this person respond to the following question?
+
+I dont like to draw attention to myself.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+60. How did this person respond to the following question?
+
+I worry about things.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+61. How did this person respond to the following question?
+
+I enjoy hearing new ideas.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+62. How did this person respond to the following question?
+
+I make demands on others.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+63. How did this person respond to the following question?
+
+I am the life of the party.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+64. How did this person respond to the following question?
+
+I have difficulty understanding abstract ideas.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+65. How did this person respond to the following question?
+
+I finish what i start.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+66. How did this person respond to the following question?
+
+I respect others.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+67. How did this person respond to the following question?
+
+I rarely get irritated.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+68. How did this person respond to the following question?
+
+I make a mess of things.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+69. How did this person respond to the following question?
+
+I find it difficult to approach others.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+70. How did this person respond to the following question?
+
+I have frequent mood swings.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+71. How did this person respond to the following question?
+
+I have a rich vocabulary.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+72. How did this person respond to the following question?
+
+I am out for my own personal gain.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+73. How did this person respond to the following question?
+
+I am skilled in handling social situations.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+74. How did this person respond to the following question?
+
+I do not like art.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+75. How did this person respond to the following question?
+
+I get chores done right away.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+76. How did this person respond to the following question?
+
+I sympathise with others feelings.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+77. How did this person respond to the following question?
+
+I seldom get mad.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+78. How did this person respond to the following question?
+
+I dont see things through.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+79. How did this person respond to the following question?
+
+I retreat from others.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+80. How did this person respond to the following question?
+
+I am often down in the dumps.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+81. How did this person respond to the following question?
+
+I get excited by new ideas.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+82. How did this person respond to the following question?
+
+I have a sharp tongue.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+83. How did this person respond to the following question?
+
+I feel comfortable around people.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+84. How did this person respond to the following question?
+
+I believe that too much tax money goes to support artists.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+85. How did this person respond to the following question?
+
+I pay attention to details.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+86. How did this person respond to the following question?
+
+I have a good word for everyone.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+87. How did this person respond to the following question?
+
+I remain calm under pressure.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+88. How did this person respond to the following question?
+
+I find it difficult to get down to work.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+89. How did this person respond to the following question?
+
+I would describe my experiences as somewhat dull.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+90. How did this person respond to the following question?
+
+I am filled with doubts about things.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+91. How did this person respond to the following question?
+
+I believe in the importance of art.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+92. How did this person respond to the following question?
+
+I insult people.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+93. How did this person respond to the following question?
+
+I start conversations.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+94. How did this person respond to the following question?
+
+I rarely look for a deeper meaning in things.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+95. How did this person respond to the following question?
+
+I carry out my plans.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+96. How did this person respond to the following question?
+
+I treat all people equally.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+97. How did this person respond to the following question?
+
+I am very pleased with myself.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+98. How did this person respond to the following question?
+
+I do just enough work to get by.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+99. How did this person respond to the following question?
+
+I am hard to get to know.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
+100. How did this person respond to the following question?
+
+I feel threatened easily.
+
+Disagree
+ 
+Neutral
+ 
+Agree
+
+[[PageBreak]]
