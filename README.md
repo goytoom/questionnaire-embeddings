@@ -9,3 +9,4 @@ This repository contains source codes and data for the "Deep Language Models of 
 
 # Data files
 - Item texts, embeddings (SBERT, Word2Vec and LIWC), and participant responses can be found under `/embeddings`.
+- Human rater data (raw; Qualtrics export) can be found found under `/human_studies`.
