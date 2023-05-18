@@ -1,6 +1,11 @@
 # Deep language models of human personality
 This repository contains source codes and data for the "A Deep Language Approach to Personality Assessment" project.
 
+# Instructions
+
+If using conda/anaconda, run `conda env create --file questionnaire.yaml` to recreate the exact environment/packages versions as in this project. Otherwise, manually load compatible versions of the necessary packages.
+Then, run the following programs in the desired order of replication (e.g., extract embeddings -> replicate Study 1 -> ...)
+
 # Code files
 All codes are located in the `scripts` folder:
 - Codes for extracting S-BERT embeddings can be found at `extract_questions_embeddings.ipynb`.
