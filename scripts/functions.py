@@ -504,32 +504,6 @@ def predictionPerformance(targets_data, human_data, model_data, df_folds):
     df_comparison = pd.DataFrame(rows, columns=["Correlation", "pvalue", "target", "fold", "Predictor"])
     return df_comparison
 
-def targetComparison(targets_data, human_data, model_data, df_folds):
-    targets_h = []
-    targets_m = []
-    for target in targets_data.target_nr: #iterate over targets
-        innerlist_h = []
-        innerlist_m = []
-        for fold in range(10): #iterate over folds
-            test_items_idx = df_folds.loc[df_folds.fold_nr==fold+1, "test_items"].iloc[0]
-            test_items_names = ["q" + str(x) for x in test_items_idx]
-            true_x  = targets_data.loc[targets_data.target_nr == target, test_items_names].iloc[0]
-            model_x = model_data.loc[model_data.target_nr == target, test_items_names].iloc[0]
-            corr_model, p_model = pearsonr(true_x, model_x)
-            innerlist_m.append(corr_model)
-            if any((human_data.target == target) & (human_data.fold == fold+1)):
-                human_x = human_data.loc[(human_data.target == target) & (human_data.fold == fold+1), test_items_names].iloc[0]
-                nas = np.logical_or(np.isnan(true_x), np.isnan(human_x))   # in case nan are in vector
-                corr_human, p_human = pearsonr(true_x[~nas], human_x[~nas])
-                innerlist_h.append(corr_human)
-            else:
-                corr_human, p_human = [np.nan, np.nan]
-                innerlist_h.append(corr_human)
-        targets_m.append(innerlist_m)
-        targets_h.append(innerlist_h)
-
-    return targets_h, targets_m
-
 """ Study 4 (Construct and Key Prediction) """
 #create functions:
 #calculate accuracy for the construct or direction prediction tasks
