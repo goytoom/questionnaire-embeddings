@@ -15,6 +15,10 @@ from sklearn.svm import SVC
 from sklearn.linear_model import RidgeClassifier, Ridge
 from sklearn.neighbors import KNeighborsClassifier, KNeighborsRegressor
 
+import re
+def add_comma(match):
+    return match.group(0) + ','
+
 #random state
 randState = 0
 
@@ -949,6 +953,56 @@ def modelPerformanceKey(m=1, par=10, d="BIG5", e="sentencebert", verbose=0):
     total_dumb.to_csv(savePath + modelName + "_" + str(par) + "_" + embName + "_encodings_constrBased_dumb.csv")
     
     return 1
+
+def comparePerformance(datasets, dataset_names, pars, df_comparisons):
+    for d, name in zip(datasets, dataset_names): #process all datasets in row
+        #Choose Data Set:
+        dir_path = "../human_studies/" + d.upper() + "/" + d.lower()
+        fold_path = dir_path + "_question_folds.csv"
+        data_path = dir_path + "_full_targets_questions.csv"
+
+        [m, par, e, model, modelName] = pars
+        
+        #load path and necessary variables:
+        folder, data = chooseData(d)        
+        embeddings, save = chooseEmb(e)     #LIWC, WORD2VEC, SENTENCEBERT
+        savePath = "../results/"+folder+"nonReversed/"
+        
+        #get embeddings name:
+        embName = embeddings.split("_")[2].split(".")[0]
+
+        # get predicted responses of chosen model:
+        total_preds = pd.read_csv(savePath + modelName + "_" + str(par) + "_" + embName + "_responses.csv", index_col=0)
+        total_preds.index = total_preds.index.map(str)
+        total_preds = total_preds.astype(float)
+
+        # load target responses (original data)
+        targets_data = pd.read_csv(dir_path + "_targets_data.csv", index_col=0)
+        targets_data.index = targets_data.index.map(str)
+
+        # rename questions by order (e.g., "q1")
+        new_cols_names = ["q" + str(x) for x in range(1, len(targets_data.columns[4:])+1)] 
+        rename_cols_dict = {k:v for k,v in zip(targets_data.columns[4:].tolist(), new_cols_names)}
+        targets_data.rename(columns=rename_cols_dict, inplace=True)  
+
+        # load human rater data (revised human study)
+        human_data = pd.read_csv(dir_path + "_qualtrics_cleaned.csv", index_col = 0)
+        # load model predictions (original prediction model)
+        model_data = total_preds.loc[targets_data.index]
+        model_data = pd.merge(model_data, targets_data.target_nr, left_index=True, right_index=True) # add target_nr
+
+        # rename questions by order (e.g., "q1")
+        model_data.rename(columns=rename_cols_dict, inplace=True)  
+
+        df_folds = pd.read_csv(dir_path + "_question_folds.csv") # save to files
+        df_folds.test_items = df_folds.test_items.apply(lambda x: re.sub(r'\[[0-9\.\s]+\]', add_comma, x)).apply(lambda x: re.sub(r'([0-9\.]+)', add_comma, x)).apply(lambda x: np.array(eval(x)[0]))
+        df_folds.train_items = df_folds.train_items.apply(lambda x: re.sub(r'\[[0-9\.\s]+\]', add_comma, x)).apply(lambda x: re.sub(r'([0-9\.]+)', add_comma, x)).apply(lambda x: np.array(eval(x)[0]))
+
+        df_comparison = predictionPerformance(targets_data, human_data, model_data, df_folds)
+        df_comparison["Dataset"] = name
+        df_comparisons.append(df_comparison)
+    
+    return df_comparisons
 
 """ Auxiliary code for plotting """
 def change_width(ax, new_value) :
