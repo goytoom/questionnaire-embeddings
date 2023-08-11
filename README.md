@@ -1,5 +1,5 @@
 # A Deep Learning Approach to Personality Assessment
-This repository contains source codes and data for the "A Deep Language Approach to Personality Assessment: Generalizing Across Items and Expanding the Reach of Survey-Based Research requires approval" project.
+This repository contains source codes and data for the "A Deep Language Approach to Personality Assessment: Generalizing Across Items and Expanding the Reach of Survey-Based Research" project.
 
 # Instructions
 
